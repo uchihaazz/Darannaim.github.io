@@ -1,0 +1,1379 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Healty Restaurant - Elementor Kits",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/about-us-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu V2",
+            "screenshot": "screenshots\/menu-v2.jpg",
+            "source": "templates\/menu-v2.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/menu-v2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu V1",
+            "screenshot": "screenshots\/menu-v1.jpg",
+            "source": "templates\/menu-v1.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/menu-v1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation",
+            "screenshot": "screenshots\/reservation.jpg",
+            "source": "templates\/reservation.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/reservation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Detail",
+            "screenshot": "screenshots\/product-detail.jpg",
+            "source": "templates\/product-detail.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/product-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Reservation",
+            "screenshot": "screenshots\/metform-reservation.jpg",
+            "source": "templates\/metform-reservation.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/metform-reservation\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog Post",
+            "screenshot": "screenshots\/single-blog-post.jpg",
+            "source": "templates\/single-blog-post.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/single-blog-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Review",
+            "screenshot": "screenshots\/metform-review.jpg",
+            "source": "templates\/metform-review.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/metform-review\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metfrom Newsletter",
+            "screenshot": "screenshots\/metfrom-newsletter.jpg",
+            "source": "templates\/metfrom-newsletter.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/metfrom-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.10",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.4.3",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "food-background-spices-and-herbs-basil-garlic-and-YZWA5G5_flip-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/food-background-spices-and-herbs-basil-garlic-and-YZWA5G5_flip-1-800x551.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                }
+            ],
+            "filesize": 165611,
+            "dimensions": [
+                2000,
+                1377
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YZWA5G5"
+        },
+        {
+            "filename": "chicken-breast-or-fillet-poultry-meat-grilled-and-P5G4XSC.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/chicken-breast-or-fillet-poultry-meat-grilled-and-P5G4XSC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 145810,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5G4XSC"
+        },
+        {
+            "filename": "pict-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/pict-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 153065,
+            "dimensions": [
+                300,
+                311
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CVUWQAE"
+        },
+        {
+            "filename": "fresh-cooking-ingredients-and-spice-vegetarian-or-ZLWEP8U.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/fresh-cooking-ingredients-and-spice-vegetarian-or-ZLWEP8U-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/single-blog-post.json",
+                    "name": "Single Blog Post"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 144274,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZLWEP8U"
+        },
+        {
+            "filename": "triangel.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/triangel.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 458,
+            "dimensions": [
+                47,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "minestrone-italian-vegetable-soup-with-pasta-vegan-5F92DCQ1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/minestrone-italian-vegetable-soup-with-pasta-vegan-5F92DCQ1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 151591,
+            "dimensions": [
+                386,
+                446
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-F92DCQ1"
+        },
+        {
+            "filename": "organic-food-fresh-tomatoes-with-mushrooms-and-spi-8NWMS23-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/organic-food-fresh-tomatoes-with-mushrooms-and-spi-8NWMS23-1-800x519.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                }
+            ],
+            "filesize": 136792,
+            "dimensions": [
+                2000,
+                1297
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8NWMS23"
+        },
+        {
+            "filename": "square-italian-caprese-sandwiches-with-fresh-tomatoes-moz-89378QN.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/square-italian-caprese-sandwiches-with-fresh-tomatoes-moz-89378QN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                }
+            ],
+            "filesize": 101825,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-89378QN"
+        },
+        {
+            "filename": "square-chicken-breast-or-fillet-poultry-meat-grilled-and-PGW6ZL4-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/square-chicken-breast-or-fillet-poultry-meat-grilled-and-PGW6ZL4-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                }
+            ],
+            "filesize": 122679,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGW6ZL4"
+        },
+        {
+            "filename": "square-trendy-salad-chicken-grilled-fillet-with-salad-fre-XUACRNK-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/square-trendy-salad-chicken-grilled-fillet-with-salad-fre-XUACRNK-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                }
+            ],
+            "filesize": 111138,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XUACRNK"
+        },
+        {
+            "filename": "ketogenic-diet-breakfast-salt-salmon-salad-with-gr-H6UGHWU.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/ketogenic-diet-breakfast-salt-salmon-salad-with-gr-H6UGHWU-800x516.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 180265,
+            "dimensions": [
+                1600,
+                1032
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-H6UGHWU"
+        },
+        {
+            "filename": "irish-redhead-man-on-yellow-background-988AT9H-Custom-e1614156675944.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/irish-redhead-man-on-yellow-background-988AT9H-Custom-e1614156675944.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 49272,
+            "dimensions": [
+                572,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-988AT9H"
+        },
+        {
+            "filename": "portrait-of-cheerful-adult-handsome-man-smile-with-EDQ5JDE-Custom.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/portrait-of-cheerful-adult-handsome-man-smile-with-EDQ5JDE-Custom.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/single-blog-post.json",
+                    "name": "Single Blog Post"
+                }
+            ],
+            "filesize": 139274,
+            "dimensions": [
+                798,
+                798
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EDQ5JDE"
+        },
+        {
+            "filename": "young-casual-man-portrait-isolated-on-yellow-backg-HTBYXPF-Custom.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/young-casual-man-portrait-isolated-on-yellow-backg-HTBYXPF-Custom.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/single-blog-post.json",
+                    "name": "Single Blog Post"
+                }
+            ],
+            "filesize": 100211,
+            "dimensions": [
+                800,
+                803
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HTBYXPF"
+        },
+        {
+            "filename": "close-up-happy-man-in-orange-shirt-on-blue-backgro-XYUDJ5J-Custom.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/close-up-happy-man-in-orange-shirt-on-blue-backgro-XYUDJ5J-Custom.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 130281,
+            "dimensions": [
+                800,
+                831
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XYUDJ5J"
+        },
+        {
+            "filename": "organic-food-healthy-vegetables-and-fruits-with-le-WLCJVXH-1-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/organic-food-healthy-vegetables-and-fruits-with-le-WLCJVXH-1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                },
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                },
+                {
+                    "source": "templates\/reservation.json",
+                    "name": "Reservation"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog-post.json",
+                    "name": "Single Blog Post"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 157809,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WLCJVXH"
+        },
+        {
+            "filename": "professional-chef-prepare-steak-dish-at-restaurant-PJWTM23.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/professional-chef-prepare-steak-dish-at-restaurant-PJWTM23-800x1029.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 120777,
+            "dimensions": [
+                1800,
+                2316
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PJWTM23"
+        },
+        {
+            "filename": "grilled-salmon-fish-fillet-NMVSYQA.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/grilled-salmon-fish-fillet-NMVSYQA-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 160272,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NMVSYQA"
+        },
+        {
+            "filename": "lunch-in-the-restaurant-with-different-dishes-5MWN32W.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/lunch-in-the-restaurant-with-different-dishes-5MWN32W-800x464.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 148073,
+            "dimensions": [
+                2000,
+                1160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5MWN32W"
+        },
+        {
+            "filename": "caucasian-old-man-wearing-apron-6KWQ39F.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/caucasian-old-man-wearing-apron-6KWQ39F-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 103676,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6KWQ39F"
+        },
+        {
+            "filename": "portrait-of-confident-male-chef-at-restaurant-QSBAXVK.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/portrait-of-confident-male-chef-at-restaurant-QSBAXVK-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 119003,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QSBAXVK"
+        },
+        {
+            "filename": "chef-serving-vegetable-salad-ZR6V74M.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/chef-serving-vegetable-salad-ZR6V74M-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 77009,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZR6V74M"
+        },
+        {
+            "filename": "people-eating-together-on-the-table-YYEJYB5.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/people-eating-together-on-the-table-YYEJYB5-800x640.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 161324,
+            "dimensions": [
+                2000,
+                1599
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YYEJYB5"
+        },
+        {
+            "filename": "avocado-sandwich-for-healthy-snack-with-seeds-VN6MWSA.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/avocado-sandwich-for-healthy-snack-with-seeds-VN6MWSA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 115051,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VN6MWSA"
+        },
+        {
+            "filename": "lemon-mint-iced-tea-cocktail-refreshing-drink-for-2B7NGVL.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/lemon-mint-iced-tea-cocktail-refreshing-drink-for-2B7NGVL-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 84399,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2B7NGVL"
+        },
+        {
+            "filename": "green-mix-salad-with-eggs-8PK3MDU.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/green-mix-salad-with-eggs-8PK3MDU-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 110960,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8PK3MDU"
+        },
+        {
+            "filename": "green-noodles-bowl-P5323Z6.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/green-noodles-bowl-P5323Z6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 176569,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5323Z6"
+        },
+        {
+            "filename": "meat-stew-with-vegetables-YW8WLJM.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/meat-stew-with-vegetables-YW8WLJM-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 128049,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YW8WLJM"
+        },
+        {
+            "filename": "salad-with-beef-and-vegetables-on-board-TMN7FVM.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/salad-with-beef-and-vegetables-on-board-TMN7FVM-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product Detail"
+                }
+            ],
+            "filesize": 126483,
+            "dimensions": [
+                1200,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TMN7FVM"
+        },
+        {
+            "filename": "square-delicious-toast-with-white-asparagus-XDUCAFU-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/square-delicious-toast-with-white-asparagus-XDUCAFU-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                },
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 64334,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XDUCAFU"
+        },
+        {
+            "filename": "square-a-glass-of-strawberry-smoothie-on-a-white-wooden-b-P9W8VM9-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/square-a-glass-of-strawberry-smoothie-on-a-white-wooden-b-P9W8VM9-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-v2.json",
+                    "name": "Menu V2"
+                }
+            ],
+            "filesize": 61214,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9W8VM9"
+        },
+        {
+            "filename": "sir-chicken-breast-or-fillet-poultry-meat-grilled-and-P5G4XSC-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sir-chicken-breast-or-fillet-poultry-meat-grilled-and-P5G4XSC-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 150801,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5G4XSC"
+        },
+        {
+            "filename": "sircle-chicken-breast-or-fillet-poultry-meat-grilled-and-PCKAA96-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-chicken-breast-or-fillet-poultry-meat-grilled-and-PCKAA96-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 135975,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCKAA96"
+        },
+        {
+            "filename": "buddha-bowl-salad-SKJRAZN.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/buddha-bowl-salad-SKJRAZN.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 84735,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SKJRAZN"
+        },
+        {
+            "filename": "chicken-grilled-fillet-with-salad-fresh-tomatoes-a-V9M6KGS.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/chicken-grilled-fillet-with-salad-fresh-tomatoes-a-V9M6KGS.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 160753,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-V9M6KGS"
+        },
+        {
+            "filename": "sir-meat-stew-with-vegetables-YW8WLJM-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sir-meat-stew-with-vegetables-YW8WLJM-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 155146,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YW8WLJM"
+        },
+        {
+            "filename": "chicken-fillet-with-salad-top-view-ZS5X6VM.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/chicken-fillet-with-salad-top-view-ZS5X6VM.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 101277,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZS5X6VM"
+        },
+        {
+            "filename": "grilled-chicken-breast-with-mashed-potatoes-and-gr-L3W3B4R.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/grilled-chicken-breast-with-mashed-potatoes-and-gr-L3W3B4R.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 81713,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3W3B4R"
+        },
+        {
+            "filename": "sorcle-italian-caprese-sandwiches-with-fresh-tomatoes-moz-89378QN-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sorcle-italian-caprese-sandwiches-with-fresh-tomatoes-moz-89378QN-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 134070,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-89378QN"
+        },
+        {
+            "filename": "square-green-smoothie-bowl-MGVH23R-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/square-green-smoothie-bowl-MGVH23R-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 68567,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MGVH23R"
+        },
+        {
+            "filename": "sircle-avocado-sandwich-for-healthy-snack-with-seeds-P87DV6R-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-avocado-sandwich-for-healthy-snack-with-seeds-P87DV6R-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 111413,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P87DV6R"
+        },
+        {
+            "filename": "sircle-green-smoothie-bowl-MGVH23R-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-green-smoothie-bowl-MGVH23R-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 119390,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MGVH23R"
+        },
+        {
+            "filename": "sircle-a-glass-of-strawberry-smoothie-on-a-white-wooden-b-P9W8VM9-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-a-glass-of-strawberry-smoothie-on-a-white-wooden-b-P9W8VM9-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 83657,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9W8VM9"
+        },
+        {
+            "filename": "sircle-matcha-green-tea-ice-latte-with-matcha-powder-and-NEA3HKJ-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-matcha-green-tea-ice-latte-with-matcha-powder-and-NEA3HKJ-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 96324,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NEA3HKJ"
+        },
+        {
+            "filename": "sircle-mandarin-orange-juice-refreshing-summer-drink-frui-P3UFAPC-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-mandarin-orange-juice-refreshing-summer-drink-frui-P3UFAPC-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 50831,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3UFAPC"
+        },
+        {
+            "filename": "sircle-healthy-detox-drink-with-goji-berries-infused-in-w-PSQQBRJ-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/sircle-healthy-detox-drink-with-goji-berries-infused-in-w-PSQQBRJ-1.png",
+            "templates": [
+                {
+                    "source": "templates\/menu-v1.json",
+                    "name": "Menu V1"
+                }
+            ],
+            "filesize": 107631,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSQQBRJ"
+        },
+        {
+            "filename": "healthy-resto-logo.png",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/healthy-resto-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 7589,
+            "dimensions": [
+                580,
+                167
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "food-chicken-thigh-5VBQUKP-1.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/food-chicken-thigh-5VBQUKP-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog-post.json",
+                    "name": "Single Blog Post"
+                }
+            ],
+            "filesize": 100249,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5VBQUKP"
+        },
+        {
+            "filename": "grilled-beef-steak-with-vegetable-on-the-flaming-g-PLPLWDB.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/grilled-beef-steak-with-vegetable-on-the-flaming-g-PLPLWDB-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog-post.json",
+                    "name": "Single Blog Post"
+                }
+            ],
+            "filesize": 161529,
+            "dimensions": [
+                2000,
+                1334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLPLWDB"
+        },
+        {
+            "filename": "chicken-breast-or-fillet-poultry-meat-grilled-and-PGW6ZL4.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/02\/chicken-breast-or-fillet-poultry-meat-grilled-and-PGW6ZL4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 171756,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGW6ZL4"
+        },
+        {
+            "filename": "organic-food-variety-of-healthy-vegetables-and-fru-5Y6B3WV2.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.yumnatype.com\/healthyrestaurant\/wp-content\/uploads\/sites\/5\/2021\/01\/organic-food-variety-of-healthy-vegetables-and-fru-5Y6B3WV2-800x458.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 101744,
+            "dimensions": [
+                2000,
+                1144
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y6B3WV2"
+        }
+    ]
+}
